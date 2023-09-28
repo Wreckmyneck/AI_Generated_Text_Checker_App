@@ -1,3 +1,7 @@
+#Количество разработчиков - 1
+#Количество веток - 1
+#Регулярность использования - 12
+#Количество копирований  - 8
 from dash.dependencies import Input, Output
 from dash.exceptions import PreventUpdate
 from transformers import pipeline
